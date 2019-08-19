@@ -1,6 +1,4 @@
-CL61-01 >> README.md
-git init
-git and README.md
-git commit -m first commit
-echo CL61-01
-# Amaria
+# CL62-01
+Computwr Laboratory 25562 - Lab 01
+
+My name is Naratip Sangjanda
