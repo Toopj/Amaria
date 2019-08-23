@@ -1,5 +1,9 @@
-# CL62-01
-Computwr Laboratory 25562 - Lab 01
+#include < stdio.h >
 
-My name is Naratip Sangjanda
-Edited by Github Text Editor
+main( )
+{
+printf ("hello, world\n");
+}
+
+
+
